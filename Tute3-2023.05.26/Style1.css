@@ -1,0 +1,8 @@
+.double-line-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.double-line-table th, .double-line-table td {
+    border: 2px double black;
+    padding: 8px; /* Add padding for better appearance */
+}
